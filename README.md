@@ -1,61 +1,58 @@
-First-Year Project
-C Language GitHub
+# First‑Year 🎓
 
-📖 About the Project
-The First-Year project is a collection of programming assignments and projects completed during the first year of study. This repository serves as a showcase of skills and knowledge acquired in various programming concepts, primarily using the C programming language.
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/sis0n/First-Year?style=social)](https://github.com/sis0n/First-Year/stargazers)
 
-🚀 Tech Stack
-Programming Language:
-C Language C
-Version Control:
-GitHub GitHub
-🛠️ Features
-A variety of programming assignments demonstrating fundamental concepts in C.
-Code examples that illustrate best practices and efficient coding techniques.
-Documentation for each project to explain the purpose and functionality.
-📁 Project Structure
+---
 
-Run
-Copy code
-First-Year/
-│
-├── FINALS.C
-├── README.md
-└── (other project files)
-📜 Getting Started
-To get a copy of this project up and running on your local machine, follow these steps:
+## 🚀 About The Project
 
-Clone the repository:
+**First‑Year** is a [brief description of what the project does: e.g. “web dashboard for first‑year university students to track assignments and resources”].  
+My motivation was to help newcomers organize tasks and stay on track during their first year of study.  
+It solves the problem of messy note-taking and missed deadlines by centralizing scheduling, resource links, and progress tracking.  
+I built it to sharpen my skills in [list languages/frameworks], and learned how to structure scalable front‑end/back‑end architecture.  
+What makes it stand out: a clean UI, and integrations with calendars and reminders (or your project's standout feature).
 
-bash
+---
 
-Run
-Copy code
-git clone https://github.com/sis0n/First-Year.git
-Navigate to the project directory:
+## ⚙️ Tech Stack
 
-bash
+<details>
+<summary>Click to expand</summary>
 
-Run
-Copy code
-cd First-Year
-Compile the C files:
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <!-- add more as needed -->
+</div>
 
-bash
+</details>
 
-Run
-Copy code
-gcc FINALS.C -o finals
-Run the program:
+---
 
-bash
+## 📂 Table of Contents
 
-Run
-Copy code
-./finals
-📚 Resources
-C Programming Language Documentation
-GitHub Guides
-📞 Contact
-For any inquiries or feedback, please reach out via GitHub.
+- [Getting Started](#-getting-started)  
+- [Usage](#-usage)  
+- [Screenshots](#-screenshots)  
+- [Features](#-features)  
+- [Roadmap](#-roadmap)  
+- [Contributing](#-contributing)  
+- [License](#-license)  
+- [Contact](#-contact)
 
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- Node.js (version X or above)  
+- npm or yarn  
+- MongoDB (or any database you use)  
+- [Optional] `.env` file with:  
